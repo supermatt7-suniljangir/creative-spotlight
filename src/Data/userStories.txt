@@ -1,0 +1,31 @@
+﻿User Stories
+1. User Registration & Profile //check
+As a user, I want to register an account, so that I can upload and manage my digital projects.//check
+As a user, I want to create and update my profile, so that others can see my information and the projects I’ve shared. //soon to be fucked
+As a user, I want to view my profile, so that I can see an overview of all my projects and the likes they have received. //done
+2. Project Management
+As a user, I want to upload a new project, so that I can share my digital work with others. //-
+As a user, I want to add images and descriptions to my projects, so that viewers can understand what my project is about.
+As a user, I want to edit my project details, so that I can update or correct any information or images.
+As a user, I want to delete my project, so that I can remove projects I no longer want to share.
+3. Viewing & Interacting with Projects
+As a user, I want to view other users' projects, so that I can explore and find inspiration from their work.
+As a user, I want to like other users' projects, so that I can show appreciation for their work.
+As a user, I want to see the number of likes on a project, so that I can gauge its popularity.
+As a user, I want to leave comments on projects, so that I can give feedback or ask questions.
+4. Leaderboard & Search
+As a user, I want to see a global leaderboard of the most liked projects, so that I can discover top trending work. //check
+As a user, I want the leaderboard to update weekly, so that I can see the most current popular projects.//check
+As a user, I want to search for projects using keywords, so that I can find specific types of digital work easily. //-
+As a user, I want to filter search results by category, so that I can narrow down my search to specific types of projects.//-
+5. Project Presentation & Customization
+As a user, I want to customize the layout of how my projects are displayed, so that I can present my work in the best possible way.
+As a user, I want to categorize my projects, so that they are organized and easier for others to find.
+6. Sharing & Social Interaction
+As a user, I want to share my projects on social media, so that I can reach a wider audience.//-
+As a user, I want to share my profile link, so that others can see all my work in one place.//check
+As a user, I want to follow other users, so that I can stay updated with their new projects.//ditched
+Allow users to update their profile information such as username, bio, profile picture, etc.//check
+Provide an option to change the account password.//-
+Offer a way for users to permanently delete their account and associated data.//check
+Control who can see their uploaded projects (e.g., public, private, or specific user groups).//check

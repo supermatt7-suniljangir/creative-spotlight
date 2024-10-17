@@ -1,0 +1,150 @@
+import { AiTwotoneRightCircle } from "react-icons/ai";
+
+export const popularQueries = [
+    {
+      id: 1,
+      label: "UI/UX",
+      value: [
+        "user interface design",
+        "user experience design",
+        "UX",
+        "UI",
+        "UI/UX",
+        "UX design",
+        "UI design",
+      ],
+    },
+    {
+      id: 2,
+      label: "Logo",
+      value: [
+        "logo",
+        "Logo Design",
+        "logo design",
+        "branding logo",
+        "company logo",
+        "brand identity",
+        "logo creation",
+      ],
+    },
+    {
+      id: 3,
+      label: "Illustration",
+      value: [
+        "illustration",
+        "Illustration",
+        "design",
+        "animations",
+        "digital illustration",
+        "hand-drawn illustration",
+        "vector illustration",
+        "illustrative design",
+        "illustration art",
+      ],
+    },
+    {
+      id: 4,
+      label: "Product Design",
+      value: [
+        "product development",
+        "Product Design",
+        "product",
+        "product design",
+        "product engineering",
+        "product innovation",
+      ],
+    },
+    {
+      id: 5,
+      label: "Fashion",
+      value: [
+        "fashion",
+        "Fashion",
+        "fashion design",
+        "clothing design",
+        "apparel design",
+        "fashion illustration",
+        "textile design",
+      ],
+    },
+    {
+      id: 6,
+      label: "Graphic Design",
+      value: [
+        "graphic",
+        "Graphic",
+        "Graphic Design",
+        "graphic design",
+        "graphic art",
+        "visual communication",
+        "print design",
+        "advertising design",
+        "graphic creation",
+      ],
+    },
+    {
+      id: 7,
+      label: "Figma Designs",
+      value: [
+        "figma",
+        "Figma",
+        "Figma Design",
+        "figma design",
+        "design",
+        "templates",
+        "ui templates",
+        "website templates",
+        "figma prototypes",
+        "figma wireframes",
+        "figma UI kits",
+        "figma templates",
+        "figma mockups",
+      ],
+    },
+    {
+      id: 8,
+      label: "Branding",
+      value: [
+        "branding",
+        "Branding",
+        "brand strategy",
+        "brand identity",
+        "brand development",
+        "brand design",
+        "branding",
+      ],
+    },
+    {
+      id: 9,
+      label: "Photography",
+      value: [
+        "photography",
+        "Photography",
+        "photographic art",
+        "portrait photography",
+        "landscape photography",
+        "product photography",
+        "editorial photography",
+      ],
+    },
+  
+    {
+      id: 10,
+      label: "Icon Design",
+      value: [
+        "icon",
+        "Icon",
+        "Icon Design",
+        "icon design",
+        "icon creation",
+        "iconography",
+        "digital icons",
+        "vector icons",
+        "UI icons",
+      ],
+    },
+  ];
+
+
+
+ export let allTags =  popularQueries.reduce((acc, cur)=> [...acc, ...cur.value], [])
